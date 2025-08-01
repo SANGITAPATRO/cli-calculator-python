@@ -10,12 +10,9 @@ A colorful command-line calculator that supports basic arithmetic operations, po
 - Error handling (e.g., divide by zero)
 
 ## 📸 Screenshot
-<<<<<<< HEAD
+
 ![CLI Calculator Screenshot](Screenshot.png)
 ![CLI Calculator Screenshot](Screenshot1.png)
-=======
-
-
 
 ## 🚀 How to Run
 
