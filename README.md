@@ -41,6 +41,9 @@ python calculator.py
 - The program runs in a loop (`while True`) and shows a colorful menu using `colorama` and ASCII art using `pyfiglet`
 - User input is taken using `input()`, and the calculator keeps running until the user selects "Exit"
 - Includes error handling (e.g., when dividing by zero or entering invalid input)
+- I used two small Python libraries to make the calculator look nicer:
+  - `colorama` → adds colored text in the terminal
+  - `pyfiglet` → creates ASCII art title at the top
   
 ## 📂 Files
 - `calculator.py`: main Python script
