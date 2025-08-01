@@ -31,15 +31,21 @@ pip install colorama pyfiglet
 ```bash
 python calculator.py
 ```
+## 🧠 Code Explanation
 
+- **calculator.py** is the main Python script.
+- The calculator uses separate functions for each operation:
+  - `add(x, y)`, `subtract(x, y)`, `multiply(x, y)`, `divide(x, y)`, and `power(x, y)`
+- `log_history(entry)` saves each calculation to `calc_history.txt`
+- `show_history()` displays the saved history from the text file
+- The program runs in a loop (`while True`) and shows a colorful menu using `colorama` and ASCII art using `pyfiglet`
+- User input is taken using `input()`, and the calculator keeps running until the user selects "Exit"
+- Includes error handling (e.g., when dividing by zero or entering invalid input)
+  
 ## 📂 Files
 - `calculator.py`: main Python script
 - `calc_history.txt`: auto-generated log file
 - `README.md`: this file
-<<<<<<< HEAD
-=======
-
----
 
 Made by Sangita kankal
 
