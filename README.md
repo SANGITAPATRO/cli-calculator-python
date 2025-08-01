@@ -15,7 +15,7 @@ A colorful command-line calculator that supports basic arithmetic operations, po
 ![CLI Calculator Screenshot](Screenshot1.png)
 =======
 
->>>>>>> f372dfb5687fdd8d1d4df017df62cc175fadb84c
+
 
 ## 🚀 How to Run
 
@@ -44,5 +44,5 @@ python calculator.py
 
 ---
 
-Made with ❤️ by Your Name
->>>>>>> f372dfb5687fdd8d1d4df017df62cc175fadb84c
+Made by Sangita kankal
+
