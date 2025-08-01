@@ -10,7 +10,7 @@ A colorful command-line calculator that supports basic arithmetic operations, po
 - Error handling (e.g., divide by zero)
 
 ## 📸 Screenshot
-*(Add your own screenshot after running)*
+
 
 ## 🚀 How to Run
 
