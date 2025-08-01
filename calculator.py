@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Colorful CLI Calculator with history logging
-Author: Your Name
+Author: Sangita Kankal
 """
 
 from colorama import init, Fore, Style
