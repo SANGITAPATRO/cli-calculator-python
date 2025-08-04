@@ -18,7 +18,7 @@ A colorful command-line calculator that supports basic arithmetic operations, po
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cli-calculator-python.git
+git clone https://github.com/SangitaPatro/cli-calculator-python.git
 cd cli-calculator-python
 ```
 
